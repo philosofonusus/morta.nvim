@@ -1,6 +1,6 @@
 # Morta
 
-A dark, mystical colorscheme for Neovim.
+A dark colorscheme for Neovim.
 
 ## Features
 
